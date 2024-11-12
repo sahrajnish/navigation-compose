@@ -12,7 +12,7 @@ use the following dependency in your **app** module's **build.gradle** file:
 
 ```gradle
 dependencies {
-    val nav_version = "2.8.1"
+    val nav_version = "2.8.1" //use the latest version.
     implementation("androidx.navigation:navigation-compose:$nav_version")
 }
 ```
